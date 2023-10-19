@@ -1,0 +1,12 @@
+area_name,simple_area_name,cpi_fips,qcew_fips,sae_fips,oi_id
+"Atlanta-Sandy Springs-Roswell, GA",Atlanta,S35C,C1206,1312060,36
+"Boston-Cambridge-Newton, MA-NH",Boston,S11A,C1446,2571650,25
+"Dallas-Fort Worth-Arlington, TX",Dallas,S37A,C1910,4819100,7
+"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,S49A,C3108,0631080,1
+"Miami-Fort Lauderdale-West Palm Beach, FL",Miami,S35B,C3310,1233100,38
+"New York-Newark-Jersey City, NY-NJ-PA",New York,S12A,C3562,3635620,2
+"San Diego-Carlsbad, CA",San Diego,S49E,C4174,0641740,6
+"San Francisco-Oakland-Hayward, CA",San Francisco,S49B,C4186,0641860,21
+"Tampa-St. Petersburg-Clearwater, FL",Tampa,S35D,C4530,1245300,43
+U.S. city average,U.S.,0000,US000,0000000,0
+"Urban Honolulu, HI MSA",Honolulu,S49F,C4652,1546520,48

@@ -1,0 +1,3 @@
+# Restaurant Recovery
+
+This repository stores the code and data that powers the site restaurantrecovery.com. It includes credit card spending data in the [accomodation and food services](https://www.bls.gov/iag/tgs/iag72.htm) industry from [Affinity Solutions](https://www.affinity.solutions/) via [Opportunity Insights](https://github.com/OpportunityInsights/EconomicTracker). It also includes price, employment, wage, and establishment number data for the [Full-Service Restaurant industry](https://www.bls.gov/oes/current/naics5_722511.htm) from the Bureau of Labor Statistics' [Quarterly Census of Employment and Wages](https://www.bls.gov/cew/downloadable-data-files.htm) and [Consumer Price Index](https://www.bls.gov/cpi/data.htm).
